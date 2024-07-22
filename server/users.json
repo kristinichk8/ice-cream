@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "surname": "adminov",
+    "patronymic": "adminovich",
+    "login": "admin",
+    "email": "admin@gmail.com",
+    "password": "12345678",
+    "password_repeat": "12345678",
+    "rules": true,
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Mary",
+    "surname": "Francova",
+    "patronymic": "Andreevna",
+    "login": "mmm3p4",
+    "email": "francovamaria88@icloud.com",
+    "password": "12345678",
+    "password_repeat": "12345678",
+    "rules": true,
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "nastya",
+    "surname": "kostina",
+    "patronymic": "maximovna",
+    "login": "nastya123",
+    "email": "nastya@gmail.com",
+    "password": "12345678",
+    "password_repeat": "12345678",
+    "rules": false,
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "name": "Anna",
+    "surname": "Kachalova",
+    "patronymic": "Mihailovna",
+    "login": "Anna1234",
+    "email": "anna@gmail.com",
+    "password": "12345678",
+    "password_repeat": "12345678",
+    "rules": false,
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "name": "Aнна",
+    "surname": "Kachalova",
+    "patronymic": "Mihailovna",
+    "login": "Anna1234",
+    "email": "anna@gmail.com",
+    "password": "12345678",
+    "password_repeat": "12345678",
+    "rules": false,
+    "role": "user"
+  },
+  {
+    "id": 6,
+    "name": "Даниил",
+    "surname": "Колесников",
+    "patronymic": "Иванович",
+    "login": "lrusng5",
+    "email": "email@icloud.com",
+    "password": "123456",
+    "password_repeat": "123456",
+    "rules": false,
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "name": "kristina",
+    "surname": "kozlova",
+    "patronymic": "Andreevna",
+    "login": "kristina88",
+    "email": "kristina.puma8@gmail.com",
+    "password": "ffff4321",
+    "password_repeat": "ffff4321",
+    "rules": false,
+    "role": "user"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "orderId": 452,
+    "userId": 1,
+    "status": "Отменен",
+    "cart": [
+      {
+        "product": {
+          "id": 2,
+          "name": "Сладкая клубника",
+          "price": "329",
+          "amount": "20",
+          "img": "strawberry1.jpg",
+          "category": "Ягодные",
+          "country": "Россия",
+          "year": "2023",
+          "allerg": "on"
+        },
+        "quantity": 1
+      },
+      {
+        "product": {
+          "id": 3,
+          "name": "Пломбир",
+          "price": "200",
+          "amount": "20",
+          "img": "plimbir1.jpg",
+          "category": "Пломбир",
+          "country": "Россия",
+          "year": "2023",
+          "allerg": ""
+        },
+        "quantity": 3
+      }
+    ],
+    "date": "2023-12-18T14:03:58.819Z",
+    "cancelReason": "asdfghj"
+  },
+  {
+    "orderId": 127,
+    "userId": 1,
+    "status": "Отменен",
+    "cart": [
+      {
+        "product": {
+          "id": 2,
+          "name": "Сладкая клубника",
+          "price": "329",
+          "amount": "20",
+          "img": "strawberry1.jpg",
+          "category": "Ягодные",
+          "country": "Россия",
+          "year": "2023",
+          "allerg": "on"
+        },
+        "quantity": 1
+      },
+      {
+        "product": {
+          "id": 3,
+          "name": "Пломбир",
+          "price": "200",
+          "amount": "20",
+          "img": "plimbir1.jpg",
+          "category": "Пломбир",
+          "country": "Россия",
+          "year": "2023",
+          "allerg": ""
+        },
+        "quantity": 1
+      }
+    ],
+    "date": "2023-12-18T14:10:58.727Z",
+    "cancelReason": "dfghj"
+  },
+  {
+    "orderId": 845,
+    "userId": 7,
+    "status": "Подтвержден",
+    "cart": [
+      {
+        "product": {
+          "id": 1,
+          "name": "Страстная фисташка",
+          "price": "499",
+          "amount": "10",
+          "img": "fistash.jpg",
+          "category": "Ореховые",
+          "country": "Россия",
+          "year": "2023",
+          "allerg": ""
+        },
+        "quantity": 10
+      }
+    ],
+    "date": "2023-12-19T06:10:18.026Z"
+  }
+]
